@@ -11,7 +11,7 @@ This repository is dedicated to exploring the capabilities and features of Vizro
 - Document best practices and tips for dashboard development.
 
 ## Contents
-- Examples: Sample dashboards for common visualization use cases.
-- Code Snippets: Reusable components for building Vizro dashboards.
-- Documentation: Notes and insights from exploring Vizro's features.
-- Performance Analysis: Observations on performance and optimization techniques.
+- **Examples**: Sample dashboards for common visualization use cases.
+- **Code Snippets**: Reusable components for building Vizro dashboards.
+- **Documentation**: Notes and insights from exploring Vizro's features.
+- **Performance Analysis**: Observations on performance and optimization techniques.
